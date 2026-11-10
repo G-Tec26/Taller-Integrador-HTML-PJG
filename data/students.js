@@ -4,7 +4,7 @@
 const studentsData = [
   {
     id: 1,
-    name: "Valeria Gómez",
+    name: "Mey Alena Escalante Panduro",
     city: "Lima, Perú",
     role: "Frontend Developer Jr.",
     category: "frontend",
@@ -25,7 +25,7 @@ const studentsData = [
   },
   {
     id: 2,
-    name: "Camila Quispe",
+    name: "Sesia Jemima Ahuanari Natorce",
     city: "Cusco, Perú",
     role: "Web Designer & Developer",
     category: "ui-ux",
@@ -46,7 +46,7 @@ const studentsData = [
   },
   {
     id: 3,
-    name: "Lucía Morales",
+    name: "Oriana Camila Tello Pecho",
     city: "Arequipa, Perú",
     role: "Frontend Engineer Jr.",
     category: "frontend",
@@ -67,7 +67,7 @@ const studentsData = [
   },
   {
     id: 4,
-    name: "Sofía Fernández",
+    name: "Kayla Yaiza Michelly Grandez Salva",
     city: "Trujillo, Perú",
     role: "UI/UX & Creative Coder",
     category: "ui-ux",
@@ -88,7 +88,7 @@ const studentsData = [
   },
   {
     id: 5,
-    name: "Mariana Castillo",
+    name: "Xenesis Ellie Mae Perez Ruiz",
     city: "Huancayo, Perú",
     role: "Fullstack Explorer",
     category: "fullstack",
@@ -109,7 +109,7 @@ const studentsData = [
   },
   {
     id: 6,
-    name: "Valentina Rojas",
+    name: "Mildred Chanel Pinedo Purizaca",
     city: "Piura, Perú",
     role: "Frontend Specialist",
     category: "frontend",
@@ -130,7 +130,7 @@ const studentsData = [
   },
   {
     id: 7,
-    name: "Isabella Huamán",
+    name: "Daniela Yonzu Krissel Vargas Manuyama",
     city: "Ica, Perú",
     role: "Web Accessibility Advocate",
     category: "impacto",
@@ -151,7 +151,7 @@ const studentsData = [
   },
   {
     id: 8,
-    name: "Daniela Silva",
+    name: "Leury Zuleyka Vilchez Shupingahua",
     city: "Chiclayo, Perú",
     role: "Creative Frontend Developer",
     category: "frontend",
@@ -172,7 +172,7 @@ const studentsData = [
   },
   {
     id: 9,
-    name: "Andrea Paredes",
+    name: "Carlita Oralia Rengifo Lopez",
     city: "Tacna, Perú",
     role: "CSS Art & Layout Specialist",
     category: "ui-ux",
@@ -193,7 +193,7 @@ const studentsData = [
   },
   {
     id: 10,
-    name: "Gabriela Torres",
+    name: "Valery Simit Ramos Lanza",
     city: "Chimbote, Perú",
     role: "UI Designer & Developer",
     category: "ui-ux",
@@ -214,7 +214,7 @@ const studentsData = [
   },
   {
     id: 11,
-    name: "Adriana Mendoza",
+    name: "Paris Orianka Pizarro Correa",
     city: "Puno, Perú",
     role: "Junior Web Architect",
     category: "impacto",
@@ -235,7 +235,7 @@ const studentsData = [
   },
   {
     id: 12,
-    name: "Nicole Vargas",
+    name: "Neici Yalena Muñoz Cahuaza",
     city: "Huacho, Perú",
     role: "Interactive Web Developer",
     category: "impacto",
@@ -256,7 +256,7 @@ const studentsData = [
   },
   {
     id: 13,
-    name: "Jimena Flores",
+    name: "Andrea Celeste Fernandez Pizango",
     city: "Cajamarca, Perú",
     role: "Frontend Developer",
     category: "frontend",
@@ -277,7 +277,7 @@ const studentsData = [
   },
   {
     id: 14,
-    name: "Kiara Gutiérrez",
+    name: "Alexia Janayna Navarro Peña",
     city: "Tarapoto, Perú",
     role: "Web & Mobile-First Coder",
     category: "fullstack",
@@ -298,7 +298,7 @@ const studentsData = [
   },
   {
     id: 15,
-    name: "Romina Salazar",
+    name: "Cielo Jalany Navarro Guerra",
     city: "Lima, Perú",
     role: "Creative Technologist",
     category: "frontend",
@@ -319,7 +319,7 @@ const studentsData = [
   },
   {
     id: 16,
-    name: "Alejandra Ríos",
+    name: "Gracia Milagros Amasifuen Guerra",
     city: "Cusco, Perú",
     role: "UI/UX & Frontend Junior",
     category: "ui-ux",
@@ -340,7 +340,7 @@ const studentsData = [
   },
   {
     id: 17,
-    name: "Natalia Campos",
+    name: "Gabriela Alexhandra Del Aguila Vasquez",
     city: "Iquitos, Perú",
     role: "JavaScript Developer Jr.",
     category: "fullstack",
@@ -361,7 +361,7 @@ const studentsData = [
   },
   {
     id: 18,
-    name: "Fiorella Chávez",
+    name: "Karol Montes Chumbe",
     city: "Arequipa, Perú",
     role: "Frontend Developer",
     category: "frontend",
@@ -382,7 +382,7 @@ const studentsData = [
   },
   {
     id: 19,
-    name: "Tatiana Medina",
+    name: "Sheyla Mey Proaño Tuesta",
     city: "Huancavelica, Perú",
     role: "Creative Web Engineer",
     category: "impacto",
@@ -403,7 +403,7 @@ const studentsData = [
   },
   {
     id: 20,
-    name: "Diana Benites",
+    name: "Mily Pezo Valles",
     city: "Chimbote, Perú",
     role: "Frontend & Data Visualizer",
     category: "fullstack",
@@ -424,7 +424,7 @@ const studentsData = [
   },
   {
     id: 21,
-    name: "Estefanía Ramos",
+    name: "Paula Manuela Bernilla Parra",
     city: "Lima, Perú",
     role: "Web Developer Jr.",
     category: "impacto",
@@ -445,7 +445,7 @@ const studentsData = [
   },
   {
     id: 22,
-    name: "Brenda Alarcón",
+    name: "Ingrid Milagros Ochoa Arimuya",
     city: "Trujillo, Perú",
     role: "UI/UX & Web Developer",
     category: "ui-ux",
@@ -466,7 +466,7 @@ const studentsData = [
   },
   {
     id: 23,
-    name: "Carolina Espinoza",
+    name: "Mally Lovely Proaño Tuesta",
     city: "Pucallpa, Perú",
     role: "Frontend Enthusiast",
     category: "frontend",
@@ -487,7 +487,7 @@ const studentsData = [
   },
   {
     id: 24,
-    name: "Dayana Cárdenas",
+    name: "Cameron Diaz Paima",
     city: "Callao, Perú",
     role: "Web Performance & CSS",
     category: "frontend",
@@ -508,7 +508,7 @@ const studentsData = [
   },
   {
     id: 25,
-    name: "Melany Romero",
+    name: "Estreysi Nicol Vasquez Cordova",
     city: "Ayacucho, Perú",
     role: "Creative Developer",
     category: "ui-ux",
@@ -529,7 +529,7 @@ const studentsData = [
   },
   {
     id: 26,
-    name: "Ximena Palacios",
+    name: "Luz Guerra Isuiza",
     city: "Lima, Perú",
     role: "Junior Frontend Developer",
     category: "fullstack",
